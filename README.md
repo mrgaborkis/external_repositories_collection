@@ -6,3 +6,5 @@ to collect all URL that I like an external github repository to either contribut
 [++101 Linux commands README.md](https://github.com/bobbyiliev/101-linux-commands/blob/main/README.md)
 
 [Awesome README and CONTRIBUTE and CODEOWNERS examples](https://learn.microsoft.com/en-us/training/modules/manage-innersource-program-github/2-manage-innersource-program)
+
+[InnerSource Measure success](https://githubtraining.github.io/innersource-theory/#/measuring_success)
